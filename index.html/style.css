@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 1rem;
+}
+.menu {
+    display: flex;
+    list-style: none;
+    font-family:"Bitcount Prop Single";
+}
+a {
+    color: rgb(250, 187, 239);
+    text-decoration: none;
+    width: 100px;
+    padding: 20px;
+    font-size: 36px;
+    font-family: roboto;
+    padding: 150px;
+}
+
+
+
+.Atext {
+    border-radius: 15px;
+    background-color: #AE8FDC;
+    padding: 1rem;
+    box-shadow: #8853d6;
+    
+}
+body {
+  background-color: blueviolet;
+}
+.boxing {
+    display: flex;
+    justify-content: center;
+    border: 5px solid white;
+    margin: 150px;
+    
+}
+

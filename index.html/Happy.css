@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+}
+.Hy {
+    justify-content: center;
+    display: flex;
+    border: 5px solid palevioletred;
+    margin: 50px;
+    background-color: wheat;
+    padding: 100px;
+    font-size: 36px;
+    font-family: roboto;
+    color: blueviolet;
+}
+.back {
+    justify-content: center;
+    margin: 80px;
+    padding: 5px;
+    font-size: 36px;
+    text-decoration: none;
+    color: white;
+}
